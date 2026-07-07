@@ -19,3 +19,5 @@ e2e-test.js
 test-*.bin
 test-*.txt
 test-downloads/
+
+load_test.js
