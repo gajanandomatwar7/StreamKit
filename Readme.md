@@ -59,9 +59,7 @@ npm start
 The server will be running at [http://localhost:3001](http://localhost:3001).
 
 ---
-
 ## How It Works
-
 1. **Uploader Dashboard**:
    - The sender drops or selects a file.
    - The server registers a room mapping to the uploader's PeerJS ID in Redis.
